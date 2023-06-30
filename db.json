@@ -1,0 +1,168 @@
+{
+    "posts": [
+        {
+            "id": 22,
+            "title": "json-server",
+            "author": "typicode"
+        },
+        {
+            "userId": 10,
+            "title": "labore reiciendis ut",
+            "body": "molestiae consectetur sed exercitationem placeat suscipit ad praesentium ullam error nihil quibusdam nobis amet sed fugit dicta aliquid accusantium sequi dolores corrupti officiis explicabo possimus ducimus ex magnam ullam velit aperiam maiores eaque inventore animi quam",
+            "id": 1
+        },
+        {
+            "userId": 10,
+            "title": "dignissimos dolorum ex",
+            "body": "perferendis corrupti impedit harum fugit cupiditate nobis magnam nobis rerum velit pariatur quas autem magnam neque tempore mollitia ipsum similique veritatis a tenetur molestias sunt aspernatur libero recusandae reiciendis consectetur quo beatae quae voluptate totam esse saepe laborum velit deleniti",
+            "id": 2
+        },
+        {
+            "userId": 11,
+            "title": "similique enim rem",
+            "body": "natus aliquam nobis reprehenderit hic error illo eveniet suscipit architecto eum recusandae iure suscipit recusandae earum voluptatem alias et error veniam nam porro cum labore commodi adipisci",
+            "id": 3
+        },
+        {
+            "userId": 10,
+            "title": "exercitationem vitae ipsam",
+            "body": "enim possimus debitis facere quis voluptatem facere fuga optio quisquam aut eaque velit suscipit tempora rerum ex eveniet totam quaerat neque modi laboriosam modi quidem eligendi dignissimos praesentium sit qui veniam quae laudantium provident pariatur",
+            "id": 4
+        },
+        {
+            "userId": 12,
+            "title": "natus",
+            "body": "amet necessitatibus ad porro dignissimos quaerat suscipit esse consequatur ut at provident vero inventore error beatae laborum nulla amet quis vero animi animi rem nulla minus molestiae cupiditate culpa voluptas maxime occaecati provident asperiores cupiditate eum dolore",
+            "id": 5
+        },
+        {
+            "userId": 13,
+            "title": "consequuntur",
+            "body": "sequi delectus vero placeat architecto itaque fugiat alias blanditiis facere reiciendis quo harum odio sapiente officia ipsam adipisci accusantium cumque ut eos mollitia incidunt quos sint omnis vel in perspiciatis et quidem soluta atque reiciendis modi consectetur magni quod",
+            "id": 6
+        },
+        {
+            "userId": 13,
+            "title": "delectus neque quod",
+            "body": "eveniet consectetur suscipit voluptates atque deserunt mollitia soluta consequatur nam vero laboriosam dicta quasi repellendus laudantium blanditiis amet culpa libero nemo ullam nam labore assumenda quod repudiandae minus ratione voluptatibus similique vitae fugiat odio ea laborum esse accusamus",
+            "id": 7
+        },
+        {
+            "userId": 12,
+            "title": "eveniet modi quisquam",
+            "body": "consequatur atque voluptatum iure deserunt nulla eos nobis molestiae sequi minus quaerat consequuntur autem eaque delectus quis eligendi impedit repellat veritatis modi quia incidunt",
+            "id": 8
+        },
+        {
+            "userId": 13,
+            "title": "omnis dolor",
+            "body": "doloremque vitae minima ullam quidem cupiditate voluptas fugiat autem corporis qui fuga vel error quae debitis eos tempora esse qui possimus numquam in voluptates non vero",
+            "id": 9
+        },
+        {
+            "userId": 13,
+            "title": "omnis dolor",
+            "body": "doloremque vitae minima ullam quidem cupiditate voluptas fugiat autem corporis qui fuga vel error quae debitis eos tempora esse qui possimus numquam in voluptates non vero",
+            "id": 10
+        },
+        {
+            "userId": 13,
+            "title": "omnis dolor",
+            "body": "doloremque vitae minima ullam quidem cupiditate voluptas fugiat autem corporis qui fuga vel error quae debitis eos tempora esse qui possimus numquam in voluptates non vero",
+            "id": 55
+        },
+        {
+            "userId": 13,
+            "title": "omnis dolor",
+            "body": "doloremque vitae minima ullam quidem cupiditate voluptas fugiat autem corporis qui fuga vel error quae debitis eos tempora esse qui possimus numquam in voluptates non vero",
+            "id": 60
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "users": [
+        {
+            "email": "iv1@iv.com",
+            "password": "$2a$10$JFu4V2TfXuF1d2ayVFJAeupyUKsYRJaZ3IEt44UhKMPWyC7Qo2bUe",
+            "id": 1
+        },
+        {
+            "email": "username@email.com",
+            "password": "$2a$10$wQiF.KK3ns/YM/ZvzyQke.dYIGoNHzfynxnlzDBtLrYlq22prESxe",
+            "id": 2
+        },
+        {
+            "email": "testUser@api.com",
+            "password": "$2a$10$3//N84kLWSNo07Cj64i6Ru4x5.74gBDhNIniTqb/89q5y2c.M.9cW",
+            "id": 3
+        },
+        {
+            "email": "Charity_Langosh70@yahoo.com",
+            "password": "$2a$10$pWn/FvaWxaRKtBKr32JLueiVDkrsP4nZEHSidWb2ErWa0Hp1rH6oO",
+            "id": 4
+        },
+        {
+            "email": "Wilber40@hotmail.com",
+            "password": "$2a$10$20WROmTjKZhFbSFy101EmOvUot7rxI71uzbhVZhzHw2z8MzbPMllC",
+            "id": 5
+        },
+        {
+            "email": "Abdiel79@hotmail.com",
+            "password": "$2a$10$3WOBLbv7f/2vSsTMoJa0HOmjfCI4dxxI0c0oAQ9qId1ud5iEpyBTy",
+            "id": 6
+        },
+        {
+            "email": "Bernard54@gmail.com",
+            "password": "$2a$10$qa6yKg4v2dEGTiedkyFvXuBBd4c66bnmocnW8.p6X9vFnu01P8qrW",
+            "id": 7
+        },
+        {
+            "email": "Jalon_Lesch@hotmail.com",
+            "password": "$2a$10$LO8W8O3vjHPZHehlMOg4r.5Oslj0ma9gTHqWoiQtHNDhqlYBx6eB6",
+            "id": 8
+        },
+        {
+            "email": "Juana.Kiehn21@hotmail.com",
+            "password": "$2a$10$TbQsWJKzrwRBYQmC83ULuOKjV3RCpVB5sjw0/czyKCDHVNYrArWIi",
+            "id": 9
+        },
+        {
+            "email": "Cortney.Braun80@yahoo.com",
+            "password": "$2a$10$yO0tEmDKScg55qAZrkC3UeHFPZqvcWBDx3ME5taucq79zizXsT1E2",
+            "id": 10
+        },
+        {
+            "email": "Priscilla_Paucek42@yahoo.com",
+            "password": "$2a$10$VGWQ0iAYLpKzhObHkH12FeTa1STKTVYy9Ek2sFBIcIGa4Aaa.tZBa",
+            "id": 11
+        },
+        {
+            "email": "Amir78@hotmail.com",
+            "password": "$2a$10$vVqcsxlhF/5T/kSyGwYDl.V25KK9BRMj4rugVRtpbkz423cvi2w9y",
+            "id": 12
+        },
+        {
+            "email": "Keon_Rutherford@hotmail.com",
+            "password": "$2a$10$1QucagrAPEsOqxXYIec0U.whENn8VpDadX6UlYi1F8Bj2pK9OSTsS",
+            "id": 13
+        },
+        {
+            "email": "Lolita15@gmail.com",
+            "password": "$2a$10$dUfjDiJNWSt5g95LrlNH5O7TqOXHd.SR3.1ZVIGEME6sKeYIvPGuq",
+            "id": 14
+        },
+        {
+            "email": "Major82@yahoo.com",
+            "password": "$2a$10$XvFCL9lVem5ooq86Cb0jEuOnkhDIZHvenFAcywwTyFELUevUxHyd2",
+            "id": 15
+        }
+    ]
+}
